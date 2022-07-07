@@ -1,0 +1,13 @@
+/* Start custom CSS */.grid-container {
+  display: grid;
+  grid-template-columns:115px auto;
+}
+.grid-item {
+  text-align: left;
+  padding-bottom: 5px;
+}
+.grid-item.txt{
+    font-size: 16px;
+    line-height: 20px;
+    margin-left: 5px;
+}/* End custom CSS */
